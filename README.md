@@ -46,7 +46,7 @@ Performance optimized with lazy loading
 
 ## Deployment
 
-[view project]()
+[view project](https://vyom-garud-landing-page.vercel.app)
 
 ### Step 1: Clone the Repository
 
